@@ -41,8 +41,14 @@
     	untuk mencatat perubahan yg terlacak
     4. *git commit -m "keterangan"
     	untuk menambahkan pesan ketika checkout pada setiap perubahan
-    5. *git log --oneline
+    5.  *git config --global user.email "adnisaaa@gmail.com"
+    6. *git config --global user.name "adnisa sabina"
+    7. *git log --oneline
     	untuk melihat perubahan keseluruhan [agar outputnya lebih singkat]
+    8. *git remote add (URL)
+    9. *git push -u origin main
+        //atau..
+       *git push --set-upstream origin master
     ```
 
 ### **HTML**
